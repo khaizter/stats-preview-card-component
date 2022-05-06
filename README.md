@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-(./screenshot/result-desktop.png.jpg) - desktop preview
-(./screenshot/result-mobile.png.jpg) - mobile preview
+- (./screenshot/result-desktop.png.jpg) - desktop preview
+- (./screenshot/result-mobile.png.jpg) - mobile preview
 
 ### Links
 
