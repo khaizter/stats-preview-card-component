@@ -63,4 +63,4 @@ For the next development maybe i will focus more on typography like line-height,
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/khaizter)
+- Frontend Mentor - [@khaizter](https://www.frontendmentor.io/profile/khaizter)
