@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/khaizter/stats-preview-card-component)
+- Solution URL: [Github Repository](https://github.com/khaizter/stats-preview-card-component)
+- Live Preview URL : [Github Page](https://khaizter.github.io/stats-preview-card-component/index.htm)
 
 ## My process
 
