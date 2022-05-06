@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/khaizter/stats-preview-card-component)
-- Live Preview URL : [Github Page](https://khaizter.github.io/stats-preview-card-component/index.htm)
+- Live Preview URL : [Github Page](https://khaizter.github.io/stats-preview-card-component/index.html)
 
 ## My process
 
